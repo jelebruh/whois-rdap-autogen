@@ -59,15 +59,15 @@ def main():
 
     logger.info("Getting RDAP Bootstrap DNS...")
     with open("rdap.json", "w") as f:
-        json.dump(simple("https://data.iana.org/rdap/dns.json"))
+        json.dump(simple("https://data.iana.org/rdap/dns.json"), f)
 
     logger.info("Getting RDAP Bootstrap IPv4...")
     with open("ipv4.json", "w") as f:
-        json.dump(simple("https://data.iana.org/rdap/ipv4.json"))
+        json.dump(simple("https://data.iana.org/rdap/ipv4.json"), f)
 
     logger.info("Getting RDAP Bootstrap IPv6...")
     with open("ipv6.json", "w") as f:
-        json.dump(simple("https://data.iana.org/rdap/ipv6.json"))
+        json.dump(simple("https://data.iana.org/rdap/ipv6.json"), f)
 
     logger.info("Getting RDAP Bootstrap ASNs...")
     with rq.urlopen("https://data.iana.org/rdap/asn.json") as response:
