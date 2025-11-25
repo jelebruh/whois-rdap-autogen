@@ -1,4 +1,4 @@
-name: Update TLDs
+name: Update WHOIS TLDs
 
 on:
   schedule:
@@ -22,7 +22,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add *.json
-          git commit -m "Update JSONs" || echo "No changes"
+          git commit -m "Update WHOIS TLDs" || echo "No changes"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
