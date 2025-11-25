@@ -15,7 +15,7 @@ jobs:
         with:
           python-version: '3.13'
 
-      - run: python3 update_jsons.py
+      - run: python3 update_whois_tlds.py
 
       - name: Commit and push changes
         run: |
