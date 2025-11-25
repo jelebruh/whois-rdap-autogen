@@ -22,15 +22,15 @@ def simple(url):
 def main():
     logger.info("Getting RDAP Bootstrap DNS...")
     with open("rdap.json", "w") as f:
-        json.dump(simple("https://data.iana.org/rdap/dns.json"), f)
+        json.dump(simple("https://data.iana.org/rdap/dns.json"), f, indent=4)
 
     logger.info("Getting RDAP Bootstrap IPv4...")
     with open("ipv4.json", "w") as f:
-        json.dump(simple("https://data.iana.org/rdap/ipv4.json"), f)
+        json.dump(simple("https://data.iana.org/rdap/ipv4.json"), f, indent=4)
 
     logger.info("Getting RDAP Bootstrap IPv6...")
     with open("ipv6.json", "w") as f:
-        json.dump(simple("https://data.iana.org/rdap/ipv6.json"), f)
+        json.dump(simple("https://data.iana.org/rdap/ipv6.json"), f, indent=4)
 
     logger.info("Getting RDAP Bootstrap ASNs...")
     with rq.urlopen("https://data.iana.org/rdap/asn.json") as response:
@@ -49,7 +49,7 @@ def main():
         pair.append(servs)
         res.append(pair)
     with open("asns.json", "w") as f:
-        json.dump(res, f)
+        json.dump(res, f, indent=4)
     logger.info("Done.")
 
 
