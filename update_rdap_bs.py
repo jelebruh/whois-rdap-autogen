@@ -38,14 +38,19 @@ def main():
     res = []
     for asn in asns:
         nums, servs = asn
+        pair = []
+        tmp = []
         for n in nums:
-            tmp = []
-            nr = n.split("-")
-            tmp.append(list(nr))
-        tmp.append(asn)
-        res.append(tmp)
+            ins = [x for x in map(int, n.split("-"))]
+            if len(ins) == 1:
+                ins.append(ins[0])
+            tmp.append(ins)
+        pair.append(tmp)
+        pair.append(servs)
+        res.append(pair)
     with open("asns.json", "w") as f:
         json.dump(res, f)
     logger.info("Done.")
+
 
 main()
