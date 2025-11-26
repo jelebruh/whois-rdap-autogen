@@ -48,7 +48,7 @@ def main():
         pair.append(tmp)
         pair.append(servs)
         res.append(pair)
-    with open("asns.json", "w") as f:
+    with open("asn.json", "w") as f:
         json.dump(res, f, indent=4)
     logger.info("Done.")
 
