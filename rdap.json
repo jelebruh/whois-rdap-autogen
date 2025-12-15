@@ -1490,6 +1490,9 @@
     "ninja": [
         "https://rdap.identitydigital.services/rdap/"
     ],
+    "nissay": [
+        "https://rdap.identitydigital.services/rdap/"
+    ],
     "nowtv": [
         "https://rdap.identitydigital.services/rdap/"
     ],
@@ -1946,6 +1949,9 @@
     "xn--1ck2e1b": [
         "https://rdap.identitydigital.services/rdap/"
     ],
+    "xn--5su34j936bgsg": [
+        "https://rdap.identitydigital.services/rdap/"
+    ],
     "xn--5tzm5g": [
         "https://rdap.identitydigital.services/rdap/"
     ],
@@ -1995,6 +2001,12 @@
         "https://rdap.identitydigital.services/rdap/"
     ],
     "xn--vhquv": [
+        "https://rdap.identitydigital.services/rdap/"
+    ],
+    "xn--w4r85el8fhu5dnra": [
+        "https://rdap.identitydigital.services/rdap/"
+    ],
+    "xn--w4rs40l": [
         "https://rdap.identitydigital.services/rdap/"
     ],
     "yahoo": [
@@ -2149,6 +2161,9 @@
     ],
     "aramco": [
         "https://rdap.nic.aramco/"
+    ],
+    "as": [
+        "https://rdap.nic.as/"
     ],
     "athleta": [
         "https://rdap.nic.athleta/"
@@ -2413,6 +2428,9 @@
     ],
     "godaddy": [
         "https://rdap.nic.godaddy/"
+    ],
+    "gov": [
+        "https://rdap.nic.gov/rdap/"
     ],
     "grainger": [
         "https://rdap.nic.grainger/"
@@ -3506,9 +3524,6 @@
     "name": [
         "https://tld-rdap.verisign.com/name/v1/"
     ],
-    "nissay": [
-        "https://tld-rdap.verisign.com/nissay/v1/"
-    ],
     "verisign": [
         "https://tld-rdap.verisign.com/verisign/v1/"
     ],
@@ -3520,9 +3535,6 @@
     ],
     "xn--42c2d9a": [
         "https://tld-rdap.verisign.com/xn--42c2d9a/v1/"
-    ],
-    "xn--5su34j936bgsg": [
-        "https://tld-rdap.verisign.com/xn--5su34j936bgsg/v1/"
     ],
     "xn--9dbq2a": [
         "https://tld-rdap.verisign.com/xn--9dbq2a/v1/"
@@ -3547,12 +3559,6 @@
     ],
     "xn--tckwe": [
         "https://tld-rdap.verisign.com/xn--tckwe/v1/"
-    ],
-    "xn--w4r85el8fhu5dnra": [
-        "https://tld-rdap.verisign.com/xn--w4r85el8fhu5dnra/v1/"
-    ],
-    "xn--w4rs40l": [
-        "https://tld-rdap.verisign.com/xn--w4rs40l/v1/"
     ],
     "ky": [
         "https://whois.kyregistry.ky/rdap/"
