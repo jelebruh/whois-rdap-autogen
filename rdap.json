@@ -5,6 +5,9 @@
     "mg": [
         "http://rdap.nic.mg/"
     ],
+    "ng": [
+        "http://rdap.nic.net.ng/"
+    ],
     "xn--kpry57d": [
         "https://ccrdap.twnic.tw/taiwan/"
     ],
@@ -534,9 +537,6 @@
         "https://rdap.gmoregistry.net/rdap/"
     ],
     "goldpoint": [
-        "https://rdap.gmoregistry.net/rdap/"
-    ],
-    "goo": [
         "https://rdap.gmoregistry.net/rdap/"
     ],
     "hisamitsu": [
@@ -3343,6 +3343,9 @@
     ],
     "wien": [
         "https://rdap.ryce-rsp.com/rdap/"
+    ],
+    "sg": [
+        "https://rdap.sgnic.sg/rdap/"
     ],
     "nl": [
         "https://rdap.sidn.nl/"
