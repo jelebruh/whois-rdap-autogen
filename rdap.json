@@ -167,6 +167,9 @@
     "ca": [
         "https://rdap.ca.fury.ca/rdap/"
     ],
+    "au": [
+        "https://rdap.cctld.au/rdap/"
+    ],
     "uz": [
         "https://rdap.cctld.uz/"
     ],
@@ -1931,9 +1934,6 @@
     "wine": [
         "https://rdap.identitydigital.services/rdap/"
     ],
-    "wolterskluwer": [
-        "https://rdap.identitydigital.services/rdap/"
-    ],
     "works": [
         "https://rdap.identitydigital.services/rdap/"
     ],
@@ -3350,6 +3350,9 @@
     "nl": [
         "https://rdap.sidn.nl/"
     ],
+    "xn--clchc0ea0b2g2a9gcd": [
+        "https://rdap.ta.sgnic.sg/rdap/"
+    ],
     "anquan": [
         "https://rdap.teleinfo.cn/"
     ],
@@ -3505,6 +3508,9 @@
     ],
     "xn--ses554g": [
         "https://rdap.zdnsgtld.com/xn--ses554g/"
+    ],
+    "xn--yfro4i67o": [
+        "https://rdap.zh.sgnic.sg/rdap/"
     ],
     "xn--1qqw23a": [
         "https://restwhois.ngtld.cn/"
