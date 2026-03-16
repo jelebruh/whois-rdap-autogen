@@ -2780,6 +2780,9 @@
     "sex": [
         "https://rdap.nic.sex/"
     ],
+    "sn": [
+        "https://rdap.nic.sn/whois43/"
+    ],
     "sncf": [
         "https://rdap.nic.sncf/"
     ],
