@@ -302,9 +302,6 @@
     "inc": [
         "https://rdap.centralnic.com/inc/"
     ],
-    "kfh": [
-        "https://rdap.centralnic.com/kfh/"
-    ],
     "kpn": [
         "https://rdap.centralnic.com/kpn/"
     ],
@@ -430,9 +427,6 @@
     ],
     "xn--4gbrim": [
         "https://rdap.centralnic.com/xn--4gbrim/"
-    ],
-    "xn--ngbe9e0a": [
-        "https://rdap.centralnic.com/xn--ngbe9e0a/"
     ],
     "xn--vermgensberater-ctb": [
         "https://rdap.centralnic.com/xn--vermgensberater-ctb/"
@@ -3325,6 +3319,12 @@
     ],
     "hiphop": [
         "https://rdap.registry.hiphop/rdap/"
+    ],
+    "kfh": [
+        "https://rdap.registry.kfh/rdap/"
+    ],
+    "xn--ngbe9e0a": [
+        "https://rdap.registry.kfh/rdap/"
     ],
     "love": [
         "https://rdap.registry.love/rdap/"
