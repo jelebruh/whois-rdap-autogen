@@ -161,6 +161,9 @@
     "zip": [
         "https://pubapi.registry.google/rdap/"
     ],
+    "merck": [
+        "https://rdap-merck.dns.business/rdap/"
+    ],
     "blog": [
         "https://rdap.blog.fury.ca/rdap/"
     ],
