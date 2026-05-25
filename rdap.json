@@ -164,6 +164,9 @@
     "merck": [
         "https://rdap-merck.dns.business/rdap/"
     ],
+    "alibaba": [
+        "https://rdap.aliregistry.cn/rdap/"
+    ],
     "blog": [
         "https://rdap.blog.fury.ca/rdap/"
     ],
@@ -675,9 +678,6 @@
         "https://rdap.identitydigital.services/rdap/"
     ],
     "akdn": [
-        "https://rdap.identitydigital.services/rdap/"
-    ],
-    "alibaba": [
         "https://rdap.identitydigital.services/rdap/"
     ],
     "alipay": [
