@@ -5,9 +5,6 @@
     "mg": [
         "http://rdap.nic.mg/"
     ],
-    "ng": [
-        "http://rdap.nic.net.ng/"
-    ],
     "xn--kpry57d": [
         "https://ccrdap.twnic.tw/taiwan/"
     ],
@@ -2578,6 +2575,9 @@
     ],
     "nba": [
         "https://rdap.nic.nba/"
+    ],
+    "ng": [
+        "https://rdap.nic.net.ng/"
     ],
     "netbank": [
         "https://rdap.nic.netbank/"
