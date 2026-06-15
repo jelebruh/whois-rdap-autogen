@@ -3317,6 +3317,9 @@
     "ec": [
         "https://rdap.registry.ec/"
     ],
+    "gift": [
+        "https://rdap.registry.gift/rdap/"
+    ],
     "gy": [
         "https://rdap.registry.gy/"
     ],
@@ -3410,9 +3413,6 @@
     "food": [
         "https://rdap.tucowsregistry.net/rdap/"
     ],
-    "gift": [
-        "https://rdap.tucowsregistry.net/rdap/"
-    ],
     "hiv": [
         "https://rdap.tucowsregistry.net/rdap/"
     ],
@@ -3439,6 +3439,9 @@
     ],
     "xn--mxtq1m": [
         "https://rdap.twnic.tw/rdap/"
+    ],
+    "tz": [
+        "https://rdap.tznic.or.tz/"
     ],
     "com": [
         "https://rdap.verisign.com/com/v1/"
@@ -3589,9 +3592,6 @@
     ],
     "sr": [
         "https://whois.sr/rdap/"
-    ],
-    "tz": [
-        "https://whois.tznic.or.tz/rdap/"
     ],
     "fj": [
         "https://www.rdap.fj/"
