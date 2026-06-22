@@ -3290,10 +3290,31 @@
     "rest": [
         "https://rdap.registry.bar/rdap/"
     ],
+    "click": [
+        "https://rdap.registry.click/rdap/"
+    ],
+    "country": [
+        "https://rdap.registry.click/rdap/"
+    ],
+    "diy": [
+        "https://rdap.registry.click/rdap/"
+    ],
     "feedback": [
         "https://rdap.registry.click/rdap/"
     ],
+    "food": [
+        "https://rdap.registry.click/rdap/"
+    ],
     "forum": [
+        "https://rdap.registry.click/rdap/"
+    ],
+    "hiv": [
+        "https://rdap.registry.click/rdap/"
+    ],
+    "lifestyle": [
+        "https://rdap.registry.click/rdap/"
+    ],
+    "living": [
         "https://rdap.registry.click/rdap/"
     ],
     "observer": [
@@ -3302,7 +3323,19 @@
     "pid": [
         "https://rdap.registry.click/rdap/"
     ],
+    "property": [
+        "https://rdap.registry.click/rdap/"
+    ],
     "realty": [
+        "https://rdap.registry.click/rdap/"
+    ],
+    "sexy": [
+        "https://rdap.registry.click/rdap/"
+    ],
+    "trust": [
+        "https://rdap.registry.click/rdap/"
+    ],
+    "vana": [
         "https://rdap.registry.click/rdap/"
     ],
     "cloud": [
@@ -3401,40 +3434,7 @@
     "to": [
         "https://rdap.tonicregistry.to/rdap/"
     ],
-    "click": [
-        "https://rdap.tucowsregistry.net/rdap/"
-    ],
-    "country": [
-        "https://rdap.tucowsregistry.net/rdap/"
-    ],
-    "diy": [
-        "https://rdap.tucowsregistry.net/rdap/"
-    ],
-    "food": [
-        "https://rdap.tucowsregistry.net/rdap/"
-    ],
-    "hiv": [
-        "https://rdap.tucowsregistry.net/rdap/"
-    ],
-    "lifestyle": [
-        "https://rdap.tucowsregistry.net/rdap/"
-    ],
     "link": [
-        "https://rdap.tucowsregistry.net/rdap/"
-    ],
-    "living": [
-        "https://rdap.tucowsregistry.net/rdap/"
-    ],
-    "property": [
-        "https://rdap.tucowsregistry.net/rdap/"
-    ],
-    "sexy": [
-        "https://rdap.tucowsregistry.net/rdap/"
-    ],
-    "trust": [
-        "https://rdap.tucowsregistry.net/rdap/"
-    ],
-    "vana": [
         "https://rdap.tucowsregistry.net/rdap/"
     ],
     "xn--mxtq1m": [
