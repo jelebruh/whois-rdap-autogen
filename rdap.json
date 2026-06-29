@@ -3434,14 +3434,14 @@
     "to": [
         "https://rdap.tonicregistry.to/rdap/"
     ],
-    "link": [
-        "https://rdap.tucowsregistry.net/rdap/"
-    ],
     "xn--mxtq1m": [
         "https://rdap.twnic.tw/rdap/"
     ],
     "tz": [
         "https://rdap.tznic.or.tz/"
+    ],
+    "link": [
+        "https://rdap.uniregistry.net/rdap/"
     ],
     "com": [
         "https://rdap.verisign.com/com/v1/"
