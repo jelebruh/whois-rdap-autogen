@@ -449,12 +449,6 @@
     "jnj": [
         "https://rdap.centralnicregistry.com/jnj/"
     ],
-    "xn--55qw42g": [
-        "https://rdap.conac.cn/"
-    ],
-    "xn--zfr164b": [
-        "https://rdap.conac.cn/"
-    ],
     "crown": [
         "https://rdap.crown.fury.ca/rdap/"
     ],
@@ -1616,6 +1610,9 @@
     "rwe": [
         "https://rdap.identitydigital.services/rdap/"
     ],
+    "safety": [
+        "https://rdap.identitydigital.services/rdap/"
+    ],
     "sale": [
         "https://rdap.identitydigital.services/rdap/"
     ],
@@ -1665,9 +1662,6 @@
         "https://rdap.identitydigital.services/rdap/"
     ],
     "show": [
-        "https://rdap.identitydigital.services/rdap/"
-    ],
-    "sina": [
         "https://rdap.identitydigital.services/rdap/"
     ],
     "singles": [
@@ -1886,9 +1880,6 @@
     "weber": [
         "https://rdap.identitydigital.services/rdap/"
     ],
-    "weibo": [
-        "https://rdap.identitydigital.services/rdap/"
-    ],
     "weir": [
         "https://rdap.identitydigital.services/rdap/"
     ],
@@ -1917,9 +1908,6 @@
         "https://rdap.identitydigital.services/rdap/"
     ],
     "xn--6frz82g": [
-        "https://rdap.identitydigital.services/rdap/"
-    ],
-    "xn--9krt00a": [
         "https://rdap.identitydigital.services/rdap/"
     ],
     "xn--b4w605ferd": [
@@ -2032,6 +2020,27 @@
     ],
     "sling": [
         "https://rdap.mobile-registry.com/rdap/"
+    ],
+    "sina": [
+        "https://rdap.ngtld.cn/"
+    ],
+    "weibo": [
+        "https://rdap.ngtld.cn/"
+    ],
+    "xn--55qw42g": [
+        "https://rdap.ngtld.cn/"
+    ],
+    "xn--55qx5d": [
+        "https://rdap.ngtld.cn/"
+    ],
+    "xn--9krt00a": [
+        "https://rdap.ngtld.cn/"
+    ],
+    "xn--io0a7i": [
+        "https://rdap.ngtld.cn/"
+    ],
+    "xn--zfr164b": [
+        "https://rdap.ngtld.cn/"
     ],
     "aaa": [
         "https://rdap.nic.aaa/"
@@ -2689,9 +2698,6 @@
     ],
     "rugby": [
         "https://rdap.nic.rugby/"
-    ],
-    "safety": [
-        "https://rdap.nic.safety/"
     ],
     "sakura": [
         "https://rdap.nic.sakura/rdap/"
@@ -3522,12 +3528,6 @@
         "https://rdap.zh.sgnic.sg/rdap/"
     ],
     "xn--1qqw23a": [
-        "https://restwhois.ngtld.cn/"
-    ],
-    "xn--55qx5d": [
-        "https://restwhois.ngtld.cn/"
-    ],
-    "xn--io0a7i": [
         "https://restwhois.ngtld.cn/"
     ],
     "xn--xhq521b": [
