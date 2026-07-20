@@ -848,6 +848,9 @@
     "cipriani": [
         "https://rdap.identitydigital.services/rdap/"
     ],
+    "circle": [
+        "https://rdap.identitydigital.services/rdap/"
+    ],
     "citadel": [
         "https://rdap.identitydigital.services/rdap/"
     ],
@@ -1139,6 +1142,9 @@
     "goodyear": [
         "https://rdap.identitydigital.services/rdap/"
     ],
+    "got": [
+        "https://rdap.identitydigital.services/rdap/"
+    ],
     "graphics": [
         "https://rdap.identitydigital.services/rdap/"
     ],
@@ -1266,6 +1272,9 @@
         "https://rdap.identitydigital.services/rdap/"
     ],
     "jll": [
+        "https://rdap.identitydigital.services/rdap/"
+    ],
+    "jot": [
         "https://rdap.identitydigital.services/rdap/"
     ],
     "juegos": [
@@ -3005,9 +3014,6 @@
     "career": [
         "https://rdap.nominet.uk/career/"
     ],
-    "circle": [
-        "https://rdap.nominet.uk/circle/"
-    ],
     "cymru": [
         "https://rdap.nominet.uk/cymru/"
     ],
@@ -3032,9 +3038,6 @@
     "gop": [
         "https://rdap.nominet.uk/gop/"
     ],
-    "got": [
-        "https://rdap.nominet.uk/got/"
-    ],
     "gucci": [
         "https://rdap.nominet.uk/gucci/"
     ],
@@ -3052,9 +3055,6 @@
     ],
     "jobs": [
         "https://rdap.nominet.uk/jobs/"
-    ],
-    "jot": [
-        "https://rdap.nominet.uk/jot/"
     ],
     "joy": [
         "https://rdap.nominet.uk/joy/"
