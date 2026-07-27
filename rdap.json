@@ -3545,6 +3545,9 @@
     "verisign": [
         "https://tld-rdap.verisign.com/verisign/v1/"
     ],
+    "web": [
+        "https://tld-rdap.verisign.com/web/v1/"
+    ],
     "xn--11b4c3d": [
         "https://tld-rdap.verisign.com/xn--11b4c3d/v1/"
     ],
