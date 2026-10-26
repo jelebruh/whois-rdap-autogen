@@ -1646,6 +1646,9 @@
     "sbi": [
         "https://rdap.identitydigital.services/rdap/"
     ],
+    "sc": [
+        "https://rdap.identitydigital.services/rdap/"
+    ],
     "scholarships": [
         "https://rdap.identitydigital.services/rdap/"
     ],
