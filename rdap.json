@@ -1535,6 +1535,9 @@
     "post": [
         "https://rdap.identitydigital.services/rdap/"
     ],
+    "pr": [
+        "https://rdap.identitydigital.services/rdap/"
+    ],
     "pro": [
         "https://rdap.identitydigital.services/rdap/"
     ],
@@ -3414,9 +3417,6 @@
         "https://rdap.teleinfo.cn/"
     ],
     "shouji": [
-        "https://rdap.teleinfo.cn/"
-    ],
-    "xihuan": [
         "https://rdap.teleinfo.cn/"
     ],
     "xn--vuq861b": [
